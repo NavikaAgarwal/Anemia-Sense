@@ -11,6 +11,3 @@
 - **Educational Content**: Information about anemia, its symptoms, and how it can be managed or prevented.
 - **Responsive Design**: A fully responsive layout that works seamlessly across desktops, tablets, and mobile devices.
 - **Contact Support**: An integrated contact form for user inquiries and support.
-
-The link of Badges earned during this course:-
-1. Prompt Design in Vertex AI Skill Badge - https://www.credly.com/earner/earned/badge/1dd65ef1-6d61-44f2-bab4-8f80df3ad43d
